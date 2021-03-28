@@ -1,6 +1,12 @@
-# Pixel Art Maker Project
+# Pixel Art Maker Project v1.0
 
 A single-page web app that allows users to draw pixel art on a customizable canvas.
+
+## Author of this project
+
+* Project Name: Pixel ART MAKER
+* Created by **Viraj Deshaval** on **27/03/2021**
+* Checkout my project @[Pixel Art Maker](https://virajdeshaval.github.io/pixel-art-maker/)
 
 ## Skills Explored are:
 
@@ -18,9 +24,3 @@ A single-page web app that allows users to draw pixel art on a customizable canv
 1. The user can create a canvas of any (reasonable) size.
 2. The user can color the pixels in the grid.
 3. The user can reset the grid to a blank state.
-
-## Author of this project
-
-* Project Name: Pixel ART MAKER
-> Version: 1.0
-* Create by Viraj Deshaval on 27/03/2021
