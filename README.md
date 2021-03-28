@@ -5,7 +5,7 @@ A single-page web app that allows users to draw pixel art on a customizable canv
 ## Skills Explored are:
 
 * Used JavaScript Functions to make Grid using,
-*   - For Loop
+   - For Loop
 * Defining Variables with `const` and `let`
 * Accessed DOM using `document` methods
 * Created table elements using `document` methods
@@ -22,5 +22,5 @@ A single-page web app that allows users to draw pixel art on a customizable canv
 ## Author of this project
 
 * Project Name: Pixel ART MAKER
-* > Version: 1.0
+> Version: 1.0
 * Create by Viraj Deshaval on 27/03/2021
