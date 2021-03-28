@@ -4,14 +4,14 @@ A single-page web app that allows users to draw pixel art on a customizable canv
 
 ## Author of this project
 
-* Project Name: Pixel ART MAKER
+* Project Name: **Pixel ART MAKER**
 * Created by **Viraj Deshaval** on **27/03/2021**
 * Checkout my project @[Pixel Art Maker](https://virajdeshaval.github.io/pixel-art-maker/)
 
 ## Skills Explored are:
 
 * Used JavaScript Functions to make Grid using,
-   - For Loop
+  - For Loop
 * Defining Variables with `const` and `let`
 * Accessed DOM using `document` methods
 * Created table elements using `document` methods
