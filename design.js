@@ -43,12 +43,14 @@ function makeGrid(row, column) {
     })
 }
 
+// attach event listener when size of grid is submitted
 document.getElementById("sizePicker").addEventListener("submit", function(event){
   // prevents the default action to occur when form submitted
   event.preventDefault();
   // gets the values of height and weight
   const row = Number(document.getElementById('inputHeight').value);
   const column = Number(document.getElementById('inputWidth').value);
+  //function to create a grid
   makeGrid(row, column);
 });
 
