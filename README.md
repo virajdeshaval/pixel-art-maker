@@ -2,6 +2,13 @@
 
 A single-page web app that allows users to draw pixel art on a customizable canvas.
 
+This game is used to create a patterns of your choice.
+
+You can use your imagination to create a beautiful patterns on the canvas by using the pixel grid and
+a great choice of color.
+
+**Just imagine and LET THE MAGIC HAPPEN**
+
 ## Author of this project
 
 * Project Name: **Pixel ART MAKER**
